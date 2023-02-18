@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/kotlin"
+        android:id="@+id/kotlinFragment"
+        android:icon="@drawable/code"/>
+    <item
+        android:title="@string/java"
+        android:id="@+id/javaFragment"
+        android:icon="@drawable/code"/>
+    <item
+        android:title="@string/flutter"
+        android:id="@+id/flutterFragment"
+        android:icon="@drawable/code"/>
+</menu>
